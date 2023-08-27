@@ -1,4 +1,4 @@
-##EmoCNN - Facial Emotion Detector
+## EmoCNN - Facial Emotion Detector
 
 Welcome to **EmoCNN - Facial Emotion Detector**, an exciting and innovative project that combines the power of Convolutional Neural Networks (CNNs) with computer vision to recognize and analyze emotions from facial expressions. This README will guide you through an amazing journey of building, training, and deploying a model that can understand human emotions.
 
